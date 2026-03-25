@@ -1,0 +1,14 @@
+{
+  "domain": "oda",
+  "name": "Oda",
+  "codeowners": [
+    "@ludoergosum"
+  ],
+  "version": "0.3.3",
+  "config_flow": true,
+  "documentation": "",
+  "iot_class": "cloud_polling",
+  "requirements": [
+    "httpx"
+  ]
+}
